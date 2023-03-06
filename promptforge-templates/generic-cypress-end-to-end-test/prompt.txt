@@ -1,0 +1,5 @@
+create a cypress test that visits {{entryPoint}}
+
+it should {{ include "inc/should.txt" }}
+
+it should not {{ include "inc/should-not.txt" }}
